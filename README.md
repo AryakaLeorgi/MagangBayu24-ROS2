@@ -2,8 +2,8 @@
 # Magang Bayucaraka 2024 - ROS2
 
 **Identitas Peserta**\
-Nama    : \
-NRP     : 
+Nama    : Aryaka Leorgi\
+NRP     : 5025231117
 
 Pengumpulan tugas dilakukan dengan cara seperti berikut:
 
